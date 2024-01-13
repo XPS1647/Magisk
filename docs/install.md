@@ -70,7 +70,7 @@ As a summary, after installing Magisk in recovery **(starting from power off)**:
 - **(Recovery Key Combo) → (Splash screen) → (Long press volume up) → (Recovery Mode)**
 
 (Note: You **CANNOT** use custom recoveries to install or upgrade Magisk in this case!!)
-
+(Note: If you have issue with button timing for "System With Magisk", and system already started without Magisk, you can use "adb reboot recovery" command from PC. This command will reboot to the system with Magisk without pressing any button.)
 ## Samsung Devices
 
 Before proceeding, please acknowledge that:
